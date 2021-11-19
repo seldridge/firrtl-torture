@@ -1,0 +1,11 @@
+# generate files/directories
+build/
+
+# emacs
+*~
+\#*\#
+.\#*
+
+# scala-cli
+.bsp/
+.scala/
